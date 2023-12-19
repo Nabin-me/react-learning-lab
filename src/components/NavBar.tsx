@@ -1,5 +1,3 @@
-import React from "react";
-
 const NavBar = () => {
   return (
     <div className="w-full h-20 bg-primary grid place-items-center drop-shadow-lg">
